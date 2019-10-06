@@ -37,7 +37,7 @@ Profiles=Default Profile
 Default Profile=default.cfg
 [Modified Actions]
 vuser_init=0
-Action=0
+Action=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
